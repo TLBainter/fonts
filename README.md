@@ -4,6 +4,9 @@ fonts
 Grenadier
 ParkLaneNF
 VikingSquadExpand
+SpecialElite
+StandingRoomOnlyNF
+Steelfish (ALL)
 
 **PRIVATE USE**
 Futhark
